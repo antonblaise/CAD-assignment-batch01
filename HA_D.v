@@ -12,3 +12,4 @@ module HA_D (a, b, s, c);
 	assign c = a & b;
 	
 endmodule
+
