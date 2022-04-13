@@ -4,7 +4,7 @@ module RCA8_testbench(); // no input, no output
   
   reg [7:0] a, b;   // always declare inputs as reg
   reg sub;
-  wire [8:0] z;    
+  wire [7:0] z;    
   wire Cout;	    // and outputs as wire
   
   RCA8 DUT ( .a(a), .b(b), .sub(sub), .z(z), .Cout(Cout));
