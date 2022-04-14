@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Apr 13 08:10:23 2022
+[*]
+[dumpfile] "E:\My_studies\4th_year\Sem 2\SKEL 4273 - CAD WITH HDL\Projects\CAD-assignment-batch01\RCA8.vcd"
+[dumpfile_mtime] "Wed Apr 13 08:05:55 2022"
+[dumpfile_size] 2392
+[savefile] "E:\My_studies\4th_year\Sem 2\SKEL 4273 - CAD WITH HDL\Projects\CAD-assignment-batch01\RCA8.gtkw"
+[timestart] 7990
+[size] 1852 1057
+[pos] -453 -300
+*-11.000000 236 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 99
+[sst_expanded] 1
+[sst_vpaned_height] 315
+@24
+RCA8_testbench.a[7:0]
+RCA8_testbench.b[7:0]
+@28
+RCA8_testbench.sub
+RCA8_testbench.Cout
+@24
+RCA8_testbench.z[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
